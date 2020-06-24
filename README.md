@@ -1,40 +1,29 @@
-# Employee_Tracker
+# Fitness_Tracker
 
 ## Description
 
-Employee_Tracker is a solution for managing a company's employees database. Node.js is used in this application And for run this app, ` NPM `.`mysql` needs to install. And For Database I use MySql .
+Fitness_Tracker is a application for create and track daily workouts. and be able to log multiple exercises in a workout on a given day. Also be able to track the name, type, weight, sets, reps, and duration of exercise. 
 ____
-The command-line application allows the user to:
-
-- View departments, roles, employees
-
-* Add departments, roles, employees
-
-* Update employee roles
-
-* Delete departments, roles, and employees
-____
-
 
 ##  Applications Uses in this projects
     * Node.js
-    * MySql
+    * Mongodb
 
 ## Instalation 
 
-        $ npm install, 
-        $ npm install gitignore -g
-        $ npm install mysql
-        $ npm install console.table
+        $ npm install,
+        $ npm install express,
+        $ npm install gitignore,
+        $ npm install mongoose,
 
-
-##  Video Demo of app
-![Demo](./demo.gif)
+## Pages  view
+![index page](./public/imags/page_1.png)
+![stats page](./public/imags/page_2.png)
 
 # Links to Project
 
 #### GitHub
- [GitHub repository](https://rumardas.github.io/employ_tracker/)
+ [GitHub repository](https://github.com/RumaRDas/fitness_tracker.git)
 
 ### Run Server
 
